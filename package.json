@@ -1,0 +1,14 @@
+{
+  "name": "allegronpm",
+  "version": "1.0.0",
+  "description": "AllegroNpm is an open source node js package that allows using allegro api trhu node js",
+  "main": "node-allegro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1"
+  }
+}
